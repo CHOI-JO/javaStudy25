@@ -8,3 +8,4 @@ JAVA는 17버전을 설치함
 이클립스는 2022.3버전을 사용함
 
 교재는 자바 마스터 교재를 사용함
+[성적처리 프로그램.pptx](https://github.com/user-attachments/files/20276984/default.pptx)
